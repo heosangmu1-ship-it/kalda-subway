@@ -1,0 +1,1973 @@
+{
+ "covered": [
+  409,
+  410,
+  411,
+  412,
+  413,
+  414,
+  415,
+  416,
+  417,
+  418,
+  419,
+  420,
+  421,
+  422,
+  423,
+  425,
+  426,
+  427,
+  428,
+  429,
+  430,
+  431,
+  432,
+  433,
+  434
+ ],
+ "no_mark": [
+  {
+   "kind": "elevator",
+   "station": "당고개",
+   "station_code": 409,
+   "text": "1번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "상계",
+   "station_code": 410,
+   "text": "대합실(1,2번 출구 사이)"
+  },
+  {
+   "kind": "elevator",
+   "station": "노원(4)",
+   "station_code": 411,
+   "text": "2번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "노원(4)",
+   "station_code": 411,
+   "text": "9번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "창동(4)",
+   "station_code": 412,
+   "text": "1번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "창동(4)",
+   "station_code": 412,
+   "text": "2번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "쌍문",
+   "station_code": 413,
+   "text": "1번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "수유",
+   "station_code": 414,
+   "text": "1,2번 출구 사이"
+  },
+  {
+   "kind": "elevator",
+   "station": "미아",
+   "station_code": 415,
+   "text": "1,2번 출구 사이"
+  },
+  {
+   "kind": "elevator",
+   "station": "길음",
+   "station_code": 417,
+   "text": "5번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "길음",
+   "station_code": 417,
+   "text": "4번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "성신여대입구(4)",
+   "station_code": 418,
+   "text": "2번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "성신여대입구(4)",
+   "station_code": 418,
+   "text": "3번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "한성대입구",
+   "station_code": 419,
+   "text": "3,4번 출구 사이"
+  },
+  {
+   "kind": "elevator",
+   "station": "한성대입구",
+   "station_code": 419,
+   "text": "5번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "혜화",
+   "station_code": 420,
+   "text": "2번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "혜화",
+   "station_code": 420,
+   "text": "3번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "동대문(4)",
+   "station_code": 421,
+   "text": "9번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "동대문역사문화공원(4)",
+   "station_code": 422,
+   "text": "4번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "충무로(4)",
+   "station_code": 423,
+   "text": "대합실(B3)"
+  },
+  {
+   "kind": "elevator",
+   "station": "충무로(4)",
+   "station_code": 423,
+   "text": "7번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "명동",
+   "station_code": 424,
+   "text": "1번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "명동",
+   "station_code": 424,
+   "text": "대합실"
+  },
+  {
+   "kind": "elevator",
+   "station": "회현",
+   "station_code": 425,
+   "text": "3,4,5번 출구 중심"
+  },
+  {
+   "kind": "elevator",
+   "station": "서울역(4)",
+   "station_code": 426,
+   "text": "12번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "숙대입구",
+   "station_code": 427,
+   "text": "10번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "삼각지(4)",
+   "station_code": 428,
+   "text": "1,2번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "삼각지(4)",
+   "station_code": 428,
+   "text": "5,6번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "삼각지(4)",
+   "station_code": 428,
+   "text": "3번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "신용산",
+   "station_code": 429,
+   "text": "1번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "신용산",
+   "station_code": 429,
+   "text": "4번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "이촌(4)",
+   "station_code": 430,
+   "text": "1번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "이촌(4)",
+   "station_code": 430,
+   "text": "2번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "이촌(4)",
+   "station_code": 430,
+   "text": "환승통로"
+  },
+  {
+   "kind": "elevator",
+   "station": "총신대입구(4)",
+   "station_code": 432,
+   "text": "1번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "총신대입구(4)",
+   "station_code": 432,
+   "text": "14번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "사당(4)",
+   "station_code": 433,
+   "text": "9,10번 출구 사이"
+  },
+  {
+   "kind": "elevator",
+   "station": "남태령",
+   "station_code": 434,
+   "text": "1번 출구 측"
+  },
+  {
+   "kind": "elevator",
+   "station": "남태령",
+   "station_code": 434,
+   "text": "2번 출구 측"
+  },
+  {
+   "kind": "escalator",
+   "station": "불암산",
+   "station_code": null,
+   "text": "1,4번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "불암산",
+   "station_code": null,
+   "text": "1,4번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "상계",
+   "station_code": 410,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "상계",
+   "station_code": 410,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "노원(4)",
+   "station_code": 411,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "노원(4)",
+   "station_code": 411,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "노원(4)",
+   "station_code": 411,
+   "text": "9번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "노원(4)",
+   "station_code": 411,
+   "text": "9번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "창동(4)",
+   "station_code": 412,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "창동(4)",
+   "station_code": 412,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "창동(4)",
+   "station_code": 412,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "창동(4)",
+   "station_code": 412,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "창동(4)",
+   "station_code": 412,
+   "text": "2번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "창동(4)",
+   "station_code": 412,
+   "text": "2번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "쌍문",
+   "station_code": 413,
+   "text": "4번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "쌍문",
+   "station_code": 413,
+   "text": "4번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "쌍문",
+   "station_code": 413,
+   "text": "2번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "쌍문",
+   "station_code": 413,
+   "text": "2번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "쌍문",
+   "station_code": 413,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "쌍문",
+   "station_code": 413,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "수유",
+   "station_code": 414,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "수유",
+   "station_code": 414,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "수유",
+   "station_code": 414,
+   "text": "8번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "수유",
+   "station_code": 414,
+   "text": "8번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "미아",
+   "station_code": 415,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "미아",
+   "station_code": 415,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "미아",
+   "station_code": 415,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "미아",
+   "station_code": 415,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "미아",
+   "station_code": 415,
+   "text": "6번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "미아",
+   "station_code": 415,
+   "text": "6번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "미아사거리",
+   "station_code": 416,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "미아사거리",
+   "station_code": 416,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "길음",
+   "station_code": 417,
+   "text": "2번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "길음",
+   "station_code": 417,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "길음",
+   "station_code": 417,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "성신여대입구(4)",
+   "station_code": 418,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "성신여대입구(4)",
+   "station_code": 418,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "성신여대입구(4)",
+   "station_code": 418,
+   "text": "4번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "성신여대입구(4)",
+   "station_code": 418,
+   "text": "4번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "한성대입구",
+   "station_code": 419,
+   "text": "5번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "한성대입구",
+   "station_code": 419,
+   "text": "5번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "혜화",
+   "station_code": 420,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "혜화",
+   "station_code": 420,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "혜화",
+   "station_code": 420,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "혜화",
+   "station_code": 420,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "동대문(4)",
+   "station_code": 421,
+   "text": "대합실"
+  },
+  {
+   "kind": "escalator",
+   "station": "동대문(4)",
+   "station_code": 421,
+   "text": "대합실"
+  },
+  {
+   "kind": "escalator",
+   "station": "동대문(4)",
+   "station_code": 421,
+   "text": "8번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "동대문(4)",
+   "station_code": 421,
+   "text": "8번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "동대문(4)",
+   "station_code": 421,
+   "text": "9번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "동대문(4)",
+   "station_code": 421,
+   "text": "9번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "충무로(4)",
+   "station_code": 423,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "충무로(4)",
+   "station_code": 423,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "충무로(4)",
+   "station_code": 423,
+   "text": "5번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "충무로(4)",
+   "station_code": 423,
+   "text": "5번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "명동",
+   "station_code": 424,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "명동",
+   "station_code": 424,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "삼각지(4)",
+   "station_code": 428,
+   "text": "2번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "삼각지(4)",
+   "station_code": 428,
+   "text": "2번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "삼각지(4)",
+   "station_code": 428,
+   "text": "5번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "삼각지(4)",
+   "station_code": 428,
+   "text": "5번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "신용산",
+   "station_code": 429,
+   "text": "5번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "신용산",
+   "station_code": 429,
+   "text": "5번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "신용산",
+   "station_code": 429,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "신용산",
+   "station_code": 429,
+   "text": "4번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "신용산",
+   "station_code": 429,
+   "text": "4번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "신용산",
+   "station_code": 429,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "신용산",
+   "station_code": 429,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "신용산",
+   "station_code": 429,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "신용산",
+   "station_code": 429,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "이촌(4)",
+   "station_code": 430,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "이촌(4)",
+   "station_code": 430,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "이촌(4)",
+   "station_code": 430,
+   "text": "2번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "이촌(4)",
+   "station_code": 430,
+   "text": "2번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "총신대입구(4)",
+   "station_code": 432,
+   "text": "14번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "총신대입구(4)",
+   "station_code": 432,
+   "text": "14번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "총신대입구(4)",
+   "station_code": 432,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "총신대입구(4)",
+   "station_code": 432,
+   "text": "1번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "사당(4)",
+   "station_code": 433,
+   "text": "4번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "사당(4)",
+   "station_code": 433,
+   "text": "4번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "사당(4)",
+   "station_code": 433,
+   "text": "9번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "사당(4)",
+   "station_code": 433,
+   "text": "9번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "사당(4)",
+   "station_code": 433,
+   "text": "3번 출입구"
+  },
+  {
+   "kind": "escalator",
+   "station": "사당(4)",
+   "station_code": 433,
+   "text": "3번 출입구"
+  }
+ ],
+ "outcome": "B",
+ "rows": [
+  {
+   "car": 5,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 409
+  },
+  {
+   "car": 6,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 409
+  },
+  {
+   "car": 8,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 410
+  },
+  {
+   "car": 2,
+   "direction": "남태령 방면",
+   "door": 1,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 410
+  },
+  {
+   "car": 2,
+   "direction": "남태령 방면",
+   "door": 1,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 410
+  },
+  {
+   "car": 1,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 410
+  },
+  {
+   "car": 2,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 411
+  },
+  {
+   "car": 2,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 411
+  },
+  {
+   "car": 1,
+   "direction": "남태령 방면",
+   "door": 1,
+   "kind": "transfer",
+   "label": "환승 7호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 411
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 411
+  },
+  {
+   "car": 7,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 411
+  },
+  {
+   "car": 7,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 411
+  },
+  {
+   "car": 10,
+   "direction": "진접 방면",
+   "door": 4,
+   "kind": "transfer",
+   "label": "환승 7호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 411
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 2,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 412
+  },
+  {
+   "car": 6,
+   "direction": "남태령 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "1호선 소요산방면",
+   "source": "elevator",
+   "station_code": 412
+  },
+  {
+   "car": 6,
+   "direction": "남태령 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "1호선 인천방면",
+   "source": "elevator",
+   "station_code": 412
+  },
+  {
+   "car": 8,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 412
+  },
+  {
+   "car": 4,
+   "direction": "남태령 방면",
+   "door": 2,
+   "kind": "transfer",
+   "label": "환승 1호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 412
+  },
+  {
+   "car": 2,
+   "direction": "진접 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 412
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 412
+  },
+  {
+   "car": 7,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "transfer",
+   "label": "환승 1호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 412
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 413
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 413
+  },
+  {
+   "car": 4,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 414
+  },
+  {
+   "car": 7,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 414
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 415
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 415
+  },
+  {
+   "car": 8,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 416
+  },
+  {
+   "car": 3,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 416
+  },
+  {
+   "car": 6,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 417
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 418
+  },
+  {
+   "car": 5,
+   "direction": "남태령 방면",
+   "door": 2,
+   "kind": "transfer",
+   "label": "환승 우이신설경전철 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 418
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 418
+  },
+  {
+   "car": 5,
+   "direction": "진접 방면",
+   "door": 4,
+   "kind": "transfer",
+   "label": "환승 우이신설경전철 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 418
+  },
+  {
+   "car": 6,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 419
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 420
+  },
+  {
+   "car": 7,
+   "direction": "진접 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 420
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 421
+  },
+  {
+   "car": 7,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 421
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "transfer",
+   "label": "환승 1호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 421
+  },
+  {
+   "car": 6,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 421
+  },
+  {
+   "car": 4,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 421
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 421
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "transfer",
+   "label": "환승 1호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 421
+  },
+  {
+   "car": 2,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 422
+  },
+  {
+   "car": 5,
+   "direction": "남태령 방면",
+   "door": 2,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 422
+  },
+  {
+   "car": 8,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 422
+  },
+  {
+   "car": 2,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "transfer",
+   "label": "환승 5호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 422
+  },
+  {
+   "car": 10,
+   "direction": "남태령 방면",
+   "door": 2,
+   "kind": "transfer",
+   "label": "환승 2호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 422
+  },
+  {
+   "car": 10,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "transfer",
+   "label": "환승 2호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 422
+  },
+  {
+   "car": 4,
+   "direction": "진접 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 422
+  },
+  {
+   "car": 3,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 422
+  },
+  {
+   "car": 6,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 422
+  },
+  {
+   "car": 9,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 422
+  },
+  {
+   "car": 1,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "transfer",
+   "label": "환승 2호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 422
+  },
+  {
+   "car": 1,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "transfer",
+   "label": "환승 2호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 422
+  },
+  {
+   "car": 9,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "transfer",
+   "label": "환승 5호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 422
+  },
+  {
+   "car": 4,
+   "direction": null,
+   "door": 2,
+   "kind": "aed",
+   "label": "상선",
+   "source": "aed",
+   "station_code": 423
+  },
+  {
+   "car": 5,
+   "direction": null,
+   "door": 4,
+   "kind": "aed",
+   "label": "하선",
+   "source": "aed",
+   "station_code": 423
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 423
+  },
+  {
+   "car": 5,
+   "direction": "남태령 방면",
+   "door": 2,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 423
+  },
+  {
+   "car": 6,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 423
+  },
+  {
+   "car": 7,
+   "direction": "남태령 방면",
+   "door": 1,
+   "kind": "transfer",
+   "label": "환승 3호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 423
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 423
+  },
+  {
+   "car": 4,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 423
+  },
+  {
+   "car": 4,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 423
+  },
+  {
+   "car": 5,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 423
+  },
+  {
+   "car": 6,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 423
+  },
+  {
+   "car": 7,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 423
+  },
+  {
+   "car": 5,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "transfer",
+   "label": "환승 3호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 423
+  },
+  {
+   "car": 1,
+   "direction": "남태령 방면",
+   "door": 1,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 424
+  },
+  {
+   "car": 10,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 424
+  },
+  {
+   "car": 10,
+   "direction": "진접 방면",
+   "door": 4,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 424
+  },
+  {
+   "car": 1,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 425
+  },
+  {
+   "car": 4,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 425
+  },
+  {
+   "car": 10,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 425
+  },
+  {
+   "car": 10,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 425
+  },
+  {
+   "car": 1,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 425
+  },
+  {
+   "car": 6,
+   "direction": "진접 방면",
+   "door": 4,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 425
+  },
+  {
+   "car": 9,
+   "direction": "진접 방면",
+   "door": 4,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 425
+  },
+  {
+   "car": 8,
+   "direction": null,
+   "door": 1,
+   "kind": "aed",
+   "label": "상선",
+   "source": "aed",
+   "station_code": 426
+  },
+  {
+   "car": 8,
+   "direction": null,
+   "door": 3,
+   "kind": "aed",
+   "label": "하선",
+   "source": "aed",
+   "station_code": 426
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "transfer",
+   "label": "환승 공항철도 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 426
+  },
+  {
+   "car": 10,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "transfer",
+   "label": "환승 1호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 426
+  },
+  {
+   "car": 9,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 426
+  },
+  {
+   "car": 1,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "transfer",
+   "label": "환승 1호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 426
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "transfer",
+   "label": "환승 공항철도 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 426
+  },
+  {
+   "car": 5,
+   "direction": null,
+   "door": 3,
+   "kind": "aed",
+   "label": "상선",
+   "source": "aed",
+   "station_code": 427
+  },
+  {
+   "car": 6,
+   "direction": null,
+   "door": 1,
+   "kind": "aed",
+   "label": "하선",
+   "source": "aed",
+   "station_code": 427
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 427
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 427
+  },
+  {
+   "car": 7,
+   "direction": "남태령 방면",
+   "door": 2,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 428
+  },
+  {
+   "car": 10,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "transfer",
+   "label": "환승 6호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 428
+  },
+  {
+   "car": 4,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 428
+  },
+  {
+   "car": 1,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "transfer",
+   "label": "환승 6호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 428
+  },
+  {
+   "car": 5,
+   "direction": null,
+   "door": 3,
+   "kind": "aed",
+   "label": "하선",
+   "source": "aed",
+   "station_code": 429
+  },
+  {
+   "car": 6,
+   "direction": null,
+   "door": 2,
+   "kind": "aed",
+   "label": "상선",
+   "source": "aed",
+   "station_code": 429
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 2,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 429
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 429
+  },
+  {
+   "car": 3,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 430
+  },
+  {
+   "car": 1,
+   "direction": "남태령 방면",
+   "door": 1,
+   "kind": "transfer",
+   "label": "환승 경의선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 430
+  },
+  {
+   "car": 7,
+   "direction": "남태령 방면",
+   "door": 2,
+   "kind": "transfer",
+   "label": "환승 경의선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 430
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 1,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 430
+  },
+  {
+   "car": 3,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "transfer",
+   "label": "환승 경의선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 430
+  },
+  {
+   "car": 4,
+   "direction": "남태령 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 431
+  },
+  {
+   "car": 5,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "transfer",
+   "label": "환승 9호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 431
+  },
+  {
+   "car": 7,
+   "direction": "진접 방면",
+   "door": 4,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 431
+  },
+  {
+   "car": 6,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "transfer",
+   "label": "환승 9호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 431
+  },
+  {
+   "car": 8,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 432
+  },
+  {
+   "car": 1,
+   "direction": "남태령 방면",
+   "door": 1,
+   "kind": "transfer",
+   "label": "환승 7호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 432
+  },
+  {
+   "car": 7,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 432
+  },
+  {
+   "car": 10,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "transfer",
+   "label": "환승 7호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 432
+  },
+  {
+   "car": 1,
+   "direction": "남태령 방면",
+   "door": 1,
+   "kind": "escalator",
+   "label": "운행방향 하행",
+   "source": "escalator",
+   "station_code": 433
+  },
+  {
+   "car": 1,
+   "direction": "남태령 방면",
+   "door": 1,
+   "kind": "transfer",
+   "label": "환승 2호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 433
+  },
+  {
+   "car": 7,
+   "direction": "남태령 방면",
+   "door": 3,
+   "kind": "transfer",
+   "label": "환승 2호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 433
+  },
+  {
+   "car": 9,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 433
+  },
+  {
+   "car": 4,
+   "direction": "진접 방면",
+   "door": 2,
+   "kind": "transfer",
+   "label": "환승 2호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 433
+  },
+  {
+   "car": 10,
+   "direction": "진접 방면",
+   "door": 4,
+   "kind": "transfer",
+   "label": "환승 2호선 최단 하차 위치",
+   "source": "transfer",
+   "station_code": 433
+  },
+  {
+   "car": 3,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "elevator",
+   "label": "",
+   "source": "elevator",
+   "station_code": 434
+  },
+  {
+   "car": 8,
+   "direction": "진접 방면",
+   "door": 3,
+   "kind": "escalator",
+   "label": "운행방향 상행",
+   "source": "escalator",
+   "station_code": 434
+  }
+ ],
+ "seats": {
+  "car_pages": 25,
+  "cars": [
+   1,
+   4,
+   7,
+   10
+  ],
+  "formations": 46,
+  "identical": true,
+  "mirror": true,
+  "positions": [
+   "1-4",
+   "4-4",
+   "7-1",
+   "10-4"
+  ],
+  "read": 184,
+  "rows": 0
+ },
+ "unparsed": {
+  "aed": [],
+  "elevator": [],
+  "escalator": [
+   {
+    "station": "불암산",
+    "station_code": null,
+    "text": "별내별가람 방면3-1"
+   },
+   {
+    "station": "불암산",
+    "station_code": null,
+    "text": "별내별가람 방면3-1"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "대합실(동대문역사문화공원 방면4-2)"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "대합실(동대문역사문화공원 방면4-2)"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "대합실(동대문역사문화공원 방면6-3)"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "대합실(동대문역사문화공원 방면6-3)"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "대합실(명동 방면5-2)"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "대합실(명동 방면5-2)"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "대합실(명동 방면7-2)"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "대합실(명동 방면7-2)"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "환승통로(동대입구 방면5-2)"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "환승통로(동대입구 방면5-2)"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "환승통로(을지로3가 방면6-3)"
+   },
+   {
+    "station": "충무로(4)",
+    "station_code": 423,
+    "text": "환승통로(을지로3가 방면6-3)"
+   },
+   {
+    "station": "서울역(4)",
+    "station_code": 426,
+    "text": "환승통로(숙대입구 방면10-4)"
+   },
+   {
+    "station": "서울역(4)",
+    "station_code": 426,
+    "text": "환승통로(회현 방면1-1)"
+   },
+   {
+    "station": "서울역(4)",
+    "station_code": 426,
+    "text": "9-1번 출입구(교통섬) "
+   },
+   {
+    "station": "서울역(4)",
+    "station_code": 426,
+    "text": "9-1번 출입구(교통섬) "
+   },
+   {
+    "station": "남태령",
+    "station_code": 434,
+    "text": "선바위 방면3-2"
+   }
+  ]
+ }
+}
