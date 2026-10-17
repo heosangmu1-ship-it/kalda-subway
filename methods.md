@@ -1,4 +1,4 @@
-# 4호선 칸별 예상 혼잡도: 방법과 결과
+# 4호선 시간대별 혼잡 예보와 승강장 시설 안내: 방법과 결과
 
 이 문서는 `src/kalda/readme.py`가 `out/metrics.json`과 `out/recommend.csv`에서 자동으로 만든다. 직접 고치지 않는다.
 
@@ -180,8 +180,8 @@ bash scripts/run_all.sh
 - Python 3.9, 표준 라이브러리만 쓰고 네트워크를 쓰지 않는다. 같은 입력이면 출력이 바이트까지 같다.
 - 입력 `data/line4_june_congestion.zip` SHA-256: `afdfda77fb8aaac83a940b656226a9e70b06ff40959ed63a0cccc2c12d091487`
 - 시설 파일 5개: `data/SOURCES.md`의 SHA-256. 방향 검정 기준: `docs/direction-test.md`, 구조: `docs/structure.md`.
-- 시험: `python3 -m unittest discover -s tests` (107개, 이 문서를 만들 때 센 값)
-- `out/` 크기 4115153 바이트, 파일 38개(README.md, metrics.json 제외: README는 이 값을 센 뒤에 쓰고, metrics.json은 자기 크기를 담을 수 없다).
+- 시험: `python3 -m unittest discover -s tests` (108개, 이 문서를 만들 때 센 값)
+- `out/` 크기 4116547 바이트, 파일 38개(README.md, metrics.json 제외: README는 이 값을 센 뒤에 쓰고, metrics.json은 자기 크기를 담을 수 없다).
 
 ## 9. 산출물 위치
 

@@ -2037,14 +2037,14 @@
   }
  },
  "repro": {
-  "out_bytes": 4115153,
+  "out_bytes": 4116547,
   "out_excludes": [
    "README.md",
    "metrics.json"
   ],
   "out_files": 38,
   "python": "3.9",
-  "tests": 107
+  "tests": 108
  },
  "selection": {
   "chosen": "B2",
